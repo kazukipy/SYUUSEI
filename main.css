@@ -140,8 +140,8 @@ div,li {
   padding: 10px 20px 0px 0px;
 } 
 .footeer2{
-  color: white;
-  padding: 15px 20px 0px 0px;
+  color: white; 
+  padding: 15px 20px 0px 0px;   /*tuika*
 }
 .section_title {
   font-family: 'Noto Serif JP', serif;
